@@ -1,4 +1,4 @@
-baseURL       = "http://anettrozsa.com/"
+baseURL       = "https://mystifying-lovelace-5835b4.netlify.app"
 languageCode  = "en-us"
 title         = "Anett Rozsa - Portfolio"
 theme         = "roxo"
